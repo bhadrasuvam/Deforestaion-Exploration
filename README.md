@@ -15,6 +15,6 @@ I have analysed three scenarios for the report :
     * Largest Concers
 4. Recommendations
 
-The Elaborated Report can be found the files Section above. 
+The Elaborated Report can be found the files section above. 
 
 
